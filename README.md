@@ -48,7 +48,7 @@ Sebagai informasi, repositori ini mencakup kode sumber Python untuk pemrosesan d
 ## Dokumentasi
 
 Anda dapat mengakses dashboard interaktif secara langsung melalui tautan berikut:
-https://public.tableau.com/app/profile/gerald.sitorus/viz/rfm-analysis-dashboard/Dashboard1?publish=yes
+[Tekan Disini](https://public.tableau.com/app/profile/gerald.sitorus/viz/rfm-analysis-dashboard/Dashboard1?publish=yes)
 
 ![Tampilan Dashboard](tampilan-dashboard.png)
 
